@@ -1,4 +1,6 @@
-# [Download the Latest Version](https://github.com/)
+
+## [Download in release](https://github.com/karisarvale/electron-roblox-executor/releases/tag/1)
+
 
 <div align="center">
   
